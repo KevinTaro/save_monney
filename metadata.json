@@ -1,0 +1,6 @@
+{
+  "name": "小小理財探險家 - 兒童金融顧問記帳本",
+  "description": "專為小學生打造的可愛互動式理財記帳與冒險存錢 App，結合專業金融顧問級收支分析、Google 試算表與 Excel 匯出、遊戲化地圖進度條與虛擬寵物養成！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
